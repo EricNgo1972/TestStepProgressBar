@@ -30,6 +30,9 @@ Public Class StepProgressVM
         End Set
     End Property
 
+
+
+
 #Region "Contents"
 
     Private _steps As List(Of StepInfo)
